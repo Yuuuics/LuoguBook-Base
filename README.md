@@ -1,4 +1,7 @@
 # LuoguBook-Base
+
+~~[@echox0](https://github.com/echox0) 是我小号其实~~
+
 ## 写在前面
 这个仓库是洛谷《深入浅出程序设计竞赛（基础篇）》的代码仓库。
 
